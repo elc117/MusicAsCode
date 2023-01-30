@@ -3,6 +3,9 @@
 use_bpm 130
 cmaster2 = 120
 
+# Adicione SEU PROPRIO SAMPLE PACK, SUBSTITUA OS PATHS PELO PATH DOS RITIMOS QUE VOCÊ DESEJAR!!!
+
+
 live_loop :met1 do
   sleep 1
 end

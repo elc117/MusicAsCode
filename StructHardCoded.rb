@@ -2,7 +2,6 @@
 use_debug false
 use_bpm 90 # BPM Def
 
-# Adicione SEU PROPRIO SAMPLE PACK, SUBSTITUA OS PATHS PELO PATH DOS RITIMOS QUE VOCÊ DESEJAR!!!
 
 #Função usada pra definir o ritmo de alguns instrumentos, ex: "x--x---x-xx-x---x--x" forma uma
 #sequencia de batidas, em um loop, forma um padrao para o instrumento, toda vez q for X, toca o
