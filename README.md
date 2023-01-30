@@ -73,6 +73,11 @@ Geradores de envelope são geralmente utilizados para alterar a forma de onda em
 Ao longo do nosso código temos diversos Live_Loops, a união de todos eles é o que define a alma da nossa música. 
 
 # A musica
+Fiz o upload de duas versões, uma em 150 BPM outra em 90 BPM, os loops e timbres são os mesmos, só alterei o compasso da música. 
+![Struct HardCoded](https://user-images.githubusercontent.com/74078237/215512005-ce2f375b-90f5-48af-8a87-d0930f4eef60.png)<br>
+                                 Listen [Struct HardCoded 150 BPM](https://on.soundcloud.com/TQAAU) On SoundCloud
+![rubyunstructured](https://user-images.githubusercontent.com/74078237/215512083-8a5b3520-248a-4279-9806-7713771da4fc.png)<br>
+                                 Listen [Ruby Unstructured 90 BPM](https://on.soundcloud.com/D6qsV) On SoundCloud
 
 # Outras Musicas com o Sonic Pi
 
@@ -84,7 +89,7 @@ Dj Dave:
  - [Call Me One More Time - DJ_Dave Remix](https://www.youtube.com/watch?v=TCFOho2FAhg)
 Sam Aaron
   - [Sam Aaron live coding an ambient electro set w/ Sonic Pi](https://www.youtube.com/watch?v=G1m0aX9Lpts)
-  - [Sonic Pi - live improv set](https://www.youtube.com/watch?v=ZrEXCBMA1Ag)
+  [Sonic Pi - live improv set](https://www.youtube.com/watch?v=ZrEXCBMA1Ag)
 
 # Curiosidades 
 ![lindo-gato-curioso-9945](https://user-images.githubusercontent.com/74078237/215506056-9d4bfa6a-3bf8-4b94-a955-886713801d9b.jpg)
