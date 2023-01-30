@@ -14,3 +14,11 @@ Fonte: [Drum Kit Guide: Basic parts pf a 5-piece Drum Kit](https://www.mastercla
 
 Para aprender mais sobre cada pedacinho do drum você pode acessar a página [Parts of a Drum Kit - Beginner Drum](https://beginnerdrums.uk/parts-of-a-drum-kit/)
 
+# O Código
+## Header
+``` ruby
+use_debug false
+use_bpm 150 # BPM Def
+```
+O primeiro passo é definir o BPM (Batidas por minuto), é oq dita do ritimo da musica vamos testar com 150, mas 130 Padrão pra esse estilo de música, esta velocidade também é utilizada no [Trap e Rap](https://blog.beatstars.com/posts/trap-bpm-guide), #eletronicas mais pesadas, como psytrance utilizam um BPM mais elevado,
+#A exemplo, BoomBap utiliza de 60 a 110
