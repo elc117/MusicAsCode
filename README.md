@@ -72,7 +72,22 @@ Geradores de envelope são geralmente utilizados para alterar a forma de onda em
 
 Ao longo do nosso código temos diversos Live_Loops, a união de todos eles é o que define a alma da nossa música. 
 
+# A musica
+
+# Outras Musicas com o Sonic Pi
+
+Alguns dds Djs mais famosos nesse meio sáo Sam Aaron e DJ Dave. Sam é o idealizador da ferramenta, Dj Dave foi quem curtiu a ideia e resolveu dar vida ao movimento AlgoRave.
+
+Acompanhe algumas musicas no Youtube:
+Dj Dave: 
+ - [DJ_Dave - Easy (Live Coded Video)](https://www.youtube.com/watch?v=JiQHclg_648)
+ - [Call Me One More Time - DJ_Dave Remix](https://www.youtube.com/watch?v=TCFOho2FAhg)
+Sam Aaron
+  - [Sam Aaron live coding an ambient electro set w/ Sonic Pi](https://www.youtube.com/watch?v=G1m0aX9Lpts)
+  - [Sonic Pi - live improv set](https://www.youtube.com/watch?v=ZrEXCBMA1Ag)
+
 # Curiosidades 
+![lindo-gato-curioso-9945](https://user-images.githubusercontent.com/74078237/215506056-9d4bfa6a-3bf8-4b94-a955-886713801d9b.jpg)
 
 [Dj Dave tocou no GitHub Universe 2021](https://www.youtube.com/watch?v=JDxhkdm_t1U) fazendo uma música do 0 AO VIVO!
 
