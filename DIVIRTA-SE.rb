@@ -7,7 +7,7 @@ cmaster2 = 120
 
 
 live_loop :met1 do
-  sleep 1
+  sleep 0.75
 end
 
 define :pattern do |pattern|
